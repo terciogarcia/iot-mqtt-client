@@ -8,7 +8,6 @@ Based on [react-create-app](https://github.com/facebook/create-react-app).
 ## Features
 * Redux configured with redux-thunk middleware
 * ESLint + Standard JS
-* 
 
 
 ## Installation
